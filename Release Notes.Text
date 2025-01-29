@@ -1,0 +1,11 @@
+1.1.1 2025/01/28
+- Built Weather app with city search functionality
+- Initally dispalys a basic view of City name, temperature and Icon
+- On tapping, it will reveal detailed view with humidity and other details
+- On typing in the search bar, the screen is cleared completely
+- The last searched city is saved and shown while the app is relaunched
+
+Resource:
+Weather API: https://www.weatherapi.com/docs/#intro-request 
+App Icon: https://www.flaticon.com/free-icon/meteorology_5903953?term=weather&related_id=5903953
+Figma Design: https://www.figma.com/design/0zySCKWbyeRO805ifaz1lr/Weather-App-Test-Task?node-id=0-1&p=f&t=JqNpQQIZQJYtA8xE-0
