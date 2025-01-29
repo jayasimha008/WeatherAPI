@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Hillsboro",
+        "region": "Oregon",
+        "country": "United States of America",
+        "lat": 45.5231,
+        "lon": -122.9886,
+        "tz_id": "America/Los_Angeles",
+        "localtime_epoch": 1737843382,
+        "localtime": "2025-01-25 14:16"
+    },
+    "current": {
+        "last_updated_epoch": 1737843300,
+        "last_updated": "2025-01-25 14:15",
+        "temp_c": 8.9,
+        "temp_f": 48.0,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 7.6,
+        "wind_kph": 12.2,
+        "wind_degree": 51,
+        "wind_dir": "NE",
+        "pressure_mb": 1026.0,
+        "pressure_in": 30.29,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 32,
+        "cloud": 0,
+        "feelslike_c": 6.9,
+        "feelslike_f": 44.5,
+        "windchill_c": 5.9,
+        "windchill_f": 42.6,
+        "heatindex_c": 8.5,
+        "heatindex_f": 47.4,
+        "dewpoint_c": -2.3,
+        "dewpoint_f": 27.9,
+        "vis_km": 16.0,
+        "vis_miles": 9.0,
+        "uv": 0.9,
+        "gust_mph": 9.0,
+        "gust_kph": 14.5
+    }
+}
